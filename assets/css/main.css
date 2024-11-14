@@ -879,6 +879,7 @@ section,
 .about .content ul {
   list-style: none;
   padding: 0;
+  font-size: 18px;
 }
 
 .about .content ul li {
